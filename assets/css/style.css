@@ -12,11 +12,11 @@
 
 /* Elements */
 body {
-    background-color: #d9dcd6;
+    background-color: var(--light);
 }
 
 a {
-    color: #ffffff;
+    color: var(--lightest);
     text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ p {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: var(--lightest);
 }
 
 .header h1 {
@@ -56,7 +56,7 @@ p {
 }
 
 .seo {
-    color: #d9dcd6;
+    color: var(--light);
 }
 
 .hero {
@@ -95,17 +95,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
