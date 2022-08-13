@@ -89,7 +89,7 @@ aside article img {
     font-size: 48px;
 }
 
-.header section {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -97,12 +97,12 @@ aside article img {
     font-size: 20px;
 }
 
-.header section ul {
+.header nav ul {
     list-style-type: none;
     
 }
 
-.header section ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
