@@ -27,6 +27,10 @@ header h1 {
     font-size: 48px;
 }
 
+span {
+    color: var(--light);
+}
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -107,10 +111,6 @@ aside article img {
 }
 
 /* Classes */
-.seo {
-    color: var(--light);
-}
-
 .hero {
     height: 800px;
     width: 100%;
