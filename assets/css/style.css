@@ -97,7 +97,7 @@ p {
 
 aside article {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: var(--lightest);
 }
 
 aside article h3 {
