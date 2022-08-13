@@ -1,5 +1,8 @@
 /* Root */
-
+:root {
+    --lightest: #ffffff;
+    --light: #d9dcd6;
+}
 /* Universal */
 * {
     box-sizing: border-box;
