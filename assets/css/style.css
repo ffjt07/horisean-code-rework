@@ -24,6 +24,12 @@ p {
     font-size: 16px;
 }
 
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 section article {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,12 +128,6 @@ aside article img {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .footer {
